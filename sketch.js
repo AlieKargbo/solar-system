@@ -141,22 +141,22 @@ var asteroid_theta=0;
 var testX,testY;
      
 // global variable to reference the sound. Change this variable name to something that represents your sound.
-var startupSound;
+// var startupSound;
          
-function preload() {
-    soundFormats('mp3');
-    startupSound=loadSound('intersteller.mp3');
-}
+// function preload() {
+//     soundFormats('mp3');
+//     startupSound=loadSound('intersteller.mp3');
+// }
          
-function music() {
-    startupSound.play();
-    startupSound.loop();
-    userStartAudio();
-}
+// function music() {
+//     startupSound.play();
+//     startupSound.loop();
+//     userStartAudio();
+// }
                   
 function setup() {
     createCanvas(1110, 800);
-    music()
+    //music()
 }
 function draw() {
            background(0);
