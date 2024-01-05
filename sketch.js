@@ -145,7 +145,7 @@ var testX,testY;
 
  function preload() {
    soundFormats('mp3');
-   startupSound=loadSound('./sounds/intersteller.mp3');
+   startupSound=loadSound('intersteller.mp3');
  }
 
  function music() {
