@@ -156,7 +156,7 @@ function music() {
                   
 function setup() {
     createCanvas(1110, 800);
-    //music()
+    music()
 }
 function draw() {
            background(0);
