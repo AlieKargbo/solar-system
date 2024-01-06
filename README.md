@@ -1,2 +1,2 @@
 # solar-system
-Demo: https://solar-system-4c4.pages.dev/
+Demo: https://aliekargbo.github.io/solar-system/
