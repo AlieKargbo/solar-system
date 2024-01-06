@@ -145,7 +145,7 @@ var startupSound;
          
 function preload() {
     soundFormats('mp3');
-    startupSound=loadSound('./ntersteller.mp3');
+    startupSound=loadSound('./i.mp3');
 }
          
 function music() {
